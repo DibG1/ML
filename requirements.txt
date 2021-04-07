@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy 
-os
+
 seaborn
 matplotlib.pyplot
 sklearn.model_selection

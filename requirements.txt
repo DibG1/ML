@@ -3,9 +3,5 @@ pandas
 numpy 
 
 seaborn
-matplotlib.pyplot
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.svm
-sklearn.metrics
-sklearn.neural_network
+matplotlib
+sklearn

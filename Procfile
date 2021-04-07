@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run faketransaction.py
+web: sh setup.sh && streamlit run PumpItUp.py
